@@ -96,4 +96,7 @@ summary = summarize_text(transcript)
 print("\n✅ Summary:\n")
 print(summary)
 
+##################################################################################################################################################################
+https://colab.research.google.com/drive/100mSsS05K6kNOLa0vYMwYw9Em7VJxJcv?usp=sharing(link to google colab)
+
 
